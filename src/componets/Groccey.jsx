@@ -6,7 +6,7 @@ import {  addgroceryById} from '../actions/action';
 
 class Grocery extends Component{
      render(){
-         console.log(this.props)
+         
          const {grocery ,addgroceryById}=this.props
          return(
  <div className="col-md-4">
