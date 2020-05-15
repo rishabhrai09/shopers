@@ -21,19 +21,22 @@ export const removeGrocery=id=>{
 }
 
 
-export const addpocketMoneyById=id=>{
+export const addpocketMoneyById=(id)=>{
     const action={
-        type:ADD_GROCERY,
-        id
+        type:ADD_POCKET_MONEY,
+        id,
+        
+
     }
     return action
 }
 
 
-export const removepocketMoneyById=id=>{
+export const removepocketMoneyById=(id)=>{
     const action={
- type:REMOVE_GROCERY,
- id
+ type:REMOVE_POCKET_MONEY,
+ id,
+ 
     }
     return action
 }
