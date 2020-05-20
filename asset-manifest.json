@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopperStop/static/css/main.35b8339d.chunk.css",
+    "main.js": "/shopperStop/static/js/main.7a5aa0de.chunk.js",
+    "main.js.map": "/shopperStop/static/js/main.7a5aa0de.chunk.js.map",
+    "runtime-main.js": "/shopperStop/static/js/runtime-main.f951bfb8.js",
+    "runtime-main.js.map": "/shopperStop/static/js/runtime-main.f951bfb8.js.map",
+    "static/js/2.2f526b56.chunk.js": "/shopperStop/static/js/2.2f526b56.chunk.js",
+    "static/js/2.2f526b56.chunk.js.map": "/shopperStop/static/js/2.2f526b56.chunk.js.map",
+    "index.html": "/shopperStop/index.html",
+    "precache-manifest.111d6ca337b0313a60d7e00bdca4de25.js": "/shopperStop/precache-manifest.111d6ca337b0313a60d7e00bdca4de25.js",
+    "service-worker.js": "/shopperStop/service-worker.js",
+    "static/css/main.35b8339d.chunk.css.map": "/shopperStop/static/css/main.35b8339d.chunk.css.map",
+    "static/js/2.2f526b56.chunk.js.LICENSE.txt": "/shopperStop/static/js/2.2f526b56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f951bfb8.js",
+    "static/js/2.2f526b56.chunk.js",
+    "static/css/main.35b8339d.chunk.css",
+    "static/js/main.7a5aa0de.chunk.js"
+  ]
+}
